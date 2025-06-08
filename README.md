@@ -67,7 +67,7 @@
 ---
 
 ### 📫 Connect with me:
-- [LinkedIn](www.linkedin.com/in/abhay-rana-5a6b03268)
+- [LinkedIn](https://linkedin.com/in/abhayrana) (abhay-rana-5a6b03268)
 - Email: abhayrana089@gmail.com
 
 *Always learning, building, and growing 👨‍💻*
