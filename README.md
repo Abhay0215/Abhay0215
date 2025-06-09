@@ -52,8 +52,8 @@
 
 ## 📈 GitHub Stats
 
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?Abhay0215=abhayrana&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayrana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+(![Abhay0215's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhay0215&theme=dracula&hide_border=false))
+(![Abhay0215's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay0215&theme=dracula&show_icons=true&hide_border=false&layout=compact))
 
 ---
 
