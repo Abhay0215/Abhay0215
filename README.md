@@ -52,7 +52,7 @@
 
 ## 📈 GitHub Stats
 
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhayrana&show_icons=true&theme=tokyonight)
+![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?Abhay0215=abhayrana&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayrana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
