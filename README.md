@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Abhay Rana
 
-🚀 Aspiring Full-Stack Developer with a strong foundation in **DSA** and hands-on experience in building real-world web applications using the **MERN Stack**.  
+🚀 Aspiring Full-Stack Developer with a strong foundation in **DSA**(C++) and hands-on experience in building real-world web applications using the **MERN Stack**.  
 💼 Looking for **Software Developer** or **Full-Stack Engineer** roles where I can contribute meaningfully and grow.
 
 ---
