@@ -8,7 +8,7 @@
 ## 🧑‍💻 Tech Stack
 
 ### 💻 Languages & Tools:
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS, Redux, TS, Next.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (+ Mongoose)
 - **Version Control:** Git & GitHub
@@ -18,11 +18,11 @@
 ## 🔨 Skills & Experience
 
 - Built multiple **full-stack applications** with features like:
-  - ✅ CRUD functionality (Create, Read, Update, Delete)
   - ✅ RESTful API design and integration
   - ✅ MongoDB schema modeling using Mongoose
   - ✅ Form validation, error handling, and status codes
   - ✅ Authentication and protected routes using JWT
+  - ✅ CRUD functionality (Create, Read, Update, Delete)
 
 - Followed **modular backend structure** to keep code scalable and maintainable.
 - Integrated **frontend React apps** with Express & MongoDB backends via Axios/fetch.
