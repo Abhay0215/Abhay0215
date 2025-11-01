@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Abhay Rana
 
-🚀 Aspiring SDE with a strong foundation in **DSA**(C++) and hands-on experience in building real-world web applications using the **MERN Stack**.  
-💼 Looking for **Software Developer** or **Full-Stack Engineer** roles where I can contribute meaningfully and grow.
+🚀 Aspiring SDE with a strong foundation in **DSA**(C++) and hands-on experience in building real-world web applications using the **MERN Stack** and Learning ML and data science.  
+💼 Looking for **Software Developer** or **Software Engineer** roles where I can contribute meaningfully and grow.
 
 ---
 
@@ -9,7 +9,7 @@
 
 ### 💻 Languages & Tools:
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS, Redux, TS, Next.js
-- **Backend:** Node.js, Express.js
+- **Backend:** Node.js, Express.js, Fast API
 - **Database:** MongoDB (+ Mongoose)
 - **Version Control:** Git & GitHub
 
@@ -18,7 +18,7 @@
 ## 🔨 Skills & Experience
 
 - Built multiple **full-stack applications** with features like:
-  - ✅ RESTful API design and integration
+  - ✅ RESTful API design and AI integration
   - ✅ MongoDB schema modeling using Mongoose
   - ✅ Form validation, error handling, and status codes
   - ✅ Authentication and protected routes using JWT
