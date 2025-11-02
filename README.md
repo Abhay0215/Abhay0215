@@ -18,7 +18,7 @@ Currently focused on building real-world **MERN stack projects** and learning **
 ### 🧰 Tech Stack
 **Frontend:** React, Next.js, Tailwind CSS, JavaScript, HTML, CSS  
 **Backend:** Node.js, Express.js, REST APIs  
-**Database:** MongoDB, Mongoose  
+**Database:** MongoDB, Mongoose, Supabase, Firebase  
 **AI/ML:** Python, Pandas, NumPy, Scikit-learn, TensorFlow, Keras  
 **Tools & DevOps:** Git, GitHub, Docker, Postman, VS Code  
 **Learning:** Transformers, LangChain, Generative AI, LSTM  
