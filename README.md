@@ -39,7 +39,8 @@ Currently focused on building real-world **MERN stack projects** and learning **
 ---
 
 ### 💬 Let’s Connect
-📫 [LinkedIn](www.linkedin.com/in/abhay-rana-5a6b03268)   
+📫 [LinkedIn](www.linkedin.com/in/abhay-rana-5a6b03268) 
+✉️ [Email](abhayrana089@gmail.com) 
 ---
 
 ⭐️ _“Building consistency before perfection — one model, one project at a time.”_  
