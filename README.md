@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abhirana (Abhay Rana)
+# 👋 Hi, I'm Abhay Rana
 
 ### 🚀 MERN Stack Developer | AI & ML Learner | Building Scalable Web Apps & Smart Models  
 
@@ -26,7 +26,7 @@ Currently focused on building real-world **MERN stack projects** and learning **
 ---
 
 ### 📈 GitHub Stats
-![Abhirana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhay0215&show_icons=true&theme=tokyonight)
+![Abhay Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhay0215&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay0215&layout=compact&theme=tokyonight)
 
 ---
